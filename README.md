@@ -26,12 +26,12 @@ A sleek, minimal React-based currency converter app that allows users to quickly
 
 - **React** (with Hooks)
 - **Tailwind CSS**
-- **FawazAhmed Currency API**  
-  `https://github.com/fawazahmed0/currency-api`
+- **FawazAhmed Currency API**  `https://github.com/fawazahmed0/currency-api`
 
 ---
 
 ## 📂 Folder Structure
+
 ├── App.jsx # Main app logic and UI layout
 ├── components/
 │ └── Input.jsx # Reusable input component for currency & amount
@@ -50,8 +50,7 @@ A sleek, minimal React-based currency converter app that allows users to quickly
 
 ## 🌍 API Reference
 
-- Exchange rates are fetched live from:  
-  `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{currency}.json`
+- Exchange rates are fetched live from:  `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{currency}.json`
 
 ---
 
@@ -64,3 +63,4 @@ git clone https://github.com/your-username/simple-currency-converter.git
 cd simple-currency-converter
 npm install
 npm run dev  # or npm start
+```
